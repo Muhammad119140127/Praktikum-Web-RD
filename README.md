@@ -17,6 +17,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  : Muhammad Wirasena Ichsan Putra
 <br>
-NIM   :
+NIM   : 119140127
