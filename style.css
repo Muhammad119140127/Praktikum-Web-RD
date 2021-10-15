@@ -1,0 +1,43 @@
+html {
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+header {
+    background-color: #FBEEC1;
+    border: #DAAD86 2px solid;
+}
+
+nav {
+    background-color: #BC986A;
+    border-left: #DAAD86 5px solid;
+    border-right: #DAAD86 2px solid;
+	border-bottom: #DAAD86 2px solid;
+    text-align: center;
+}
+		
+footer {
+    background-color: #BC986A;
+    border-bottom: 2px #DAAD86 solid;
+    border-left: 2px #DAAD86 solid;
+    border-right: 2px #DAAD86 solid;
+}
+
+.bio {
+    width: 80%;
+    background-color: #BC986A;
+}
+
+.berita {
+    width: 20%;
+    background-color: #BC986A;
+    border-left: 2px #DAAD86 solid;
+}
+
+.body {
+    width: auto;
+    height: auto;
+    display: flex;
+    border: 2px #DAAD86 solid;
+}
