@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Muhammad Wirasena Ichsan Putra - Tugas Praktikum Minggu ke 3</title>
+
+        <link rel="stylesheet" type="text/css" href="minggu3.css">
+        <script src="minggu3.js" defer></script>
+    </head>
+    <body>
+    <div class="std">
+            <div class="tema">
+                <label for="theme">Customize Your Theme</label>
+                <select id="pilihtema" onchange="theme()">
+                    <option value="dark" class="dark">Dark</option>
+                    <option value="light" class="light" selected>Light</option>
+                </select>
+            </div>
+            
+            <div class="bienvenido">
+                <h1>Bienvenido!</h1>
+            </div>
+            
+
+            <div class="teks">
+                <label for="team">Choose your favourite football team</label>
+                <select id="pilihteam" onchange="team()">
+                    <option value="MUN" selected>Manchester United</option>
+                    <option value="PSG">Paris Saint Germain</option>
+                    <option value="LVL">Liverpool</option>
+                </select>
+                <p id="desc"></p>                
+            </div>
+
+            <div class="faktorial">
+                <p>Insert number to know its factorials!</p>
+                <lable for="factorial">Insert Number:</lable>
+                <input id="numbers" >
+                <button id="jumlah" onclick="count()">Calculate</button>
+                <p id="hasil"></p>
+            </div>
+        </div>                
+    </body>
+</html>
