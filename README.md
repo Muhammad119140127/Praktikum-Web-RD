@@ -5,7 +5,7 @@ Tempat pengumpulan tugas praktikum pemrograman web kelas RD
 1. Fork repository ini 
 2. Clone hasil fork repository
 3. Buat branch baru dengan nama sesuai minggu pertemuan, contoh:
-    > minggu1
+    > minggu2
  
 4. Kerjakan hingga selesai
 5. Hasil tugas kalian push ke github
